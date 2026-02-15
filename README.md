@@ -1,5 +1,3 @@
-# digital-krishi
-
 # Digital Krishi 🌾
 
 Digital Krishi is a modern frontend web application designed to support farmers with digital agricultural solutions.  
